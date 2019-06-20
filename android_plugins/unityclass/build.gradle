@@ -1,0 +1,37 @@
+/*
+ * Project Name:ThirdPlugins
+ * File Name:build.gradle
+ * Package Name:
+ * Date:17-1-12 下午3:19
+ * Copyright (c) 2016, newvision All Rights Reserved.
+ */
+
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 25
+    defaultConfig {
+        minSdkVersion 9
+        targetSdkVersion 25
+        versionCode 1
+        versionName "1.0"
+        ndk {
+            abiFilters "armeabi", "armeabi-v7a"
+        }
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+task copyLibs(type: Copy) {
+    from configurations.compile
+    into 'libs'
+}
+dependencies {
+    api fileTree(include: ['*.jar'], dir: 'libs')
+}

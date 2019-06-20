@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/android_plugins.iml" filepath="$PROJECT_DIR$/android_plugins.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baiduspeech/baiduspeech.iml" filepath="$PROJECT_DIR$/baiduspeech/baiduspeech.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cardmain/cardmain.iml" filepath="$PROJECT_DIR$/cardmain/cardmain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commonplugins/commonplugins.iml" filepath="$PROJECT_DIR$/commonplugins/commonplugins.iml" />
+      <module fileurl="file://$PROJECT_DIR$/filesystem/filesystem.iml" filepath="$PROJECT_DIR$/filesystem/filesystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/getkeyandrealcut/getkeyandrealcut.iml" filepath="$PROJECT_DIR$/getkeyandrealcut/getkeyandrealcut.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imagecrop/imagecrop.iml" filepath="$PROJECT_DIR$/imagecrop/imagecrop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mainunityplayer/mainunityplayer.iml" filepath="$PROJECT_DIR$/mainunityplayer/mainunityplayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mfxc/mfxc.iml" filepath="$PROJECT_DIR$/mfxc/mfxc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oldjar/oldjar.iml" filepath="$PROJECT_DIR$/oldjar/oldjar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/otherplugins/otherplugins.iml" filepath="$PROJECT_DIR$/otherplugins/otherplugins.iml" />
+      <module fileurl="file://$PROJECT_DIR$/permission/permission.iml" filepath="$PROJECT_DIR$/permission/permission.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qrcode/qrcode.iml" filepath="$PROJECT_DIR$/qrcode/qrcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/share/share.iml" filepath="$PROJECT_DIR$/share/share.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sharerec/sharerec.iml" filepath="$PROJECT_DIR$/sharerec/sharerec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unityclass/unityclass.iml" filepath="$PROJECT_DIR$/unityclass/unityclass.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,1 @@
+include ':app', ':filesystem', ':qrcode', ':share', ':getkeyandrealcut', ':unityclass', ':imagecrop', ':sharerec', ':otherplugins', ':baiduspeech', ':commonplugins', ':mainunityplayer', ':cardmain', ':oldjar', ':mfxc', ':permission'

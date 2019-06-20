@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:background="#000"
+    android:layout_height="match_parent"
+    android:theme="@android:style/Theme.Holo.Light.DarkActionBar"
+    >
+
+
+    <!--<com.zhouztashin.android.enjoycrop.core.image.EnjoyImageView
+        android:id="@+id/iv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="matrix"
+        android:src="@drawable/test2"/>-->
+    <com.newvision.enjoycrop.EnjoyCropLayout
+        android:id="@+id/enjoycroplayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:background="#0000"
+        android:maxHeight="800dp"
+        android:maxWidth="800dp"
+        android:scaleType="matrix"
+        android:layout_alignParentLeft="true">
+    </com.newvision.enjoycrop.EnjoyCropLayout>
+</RelativeLayout>

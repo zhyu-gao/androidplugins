@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidQRCode</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="editor_hint"></string><!-- 输入框中的提示文字，按需求添加，无则空 -->
+    <string name="up_tips"></string><!-- 扫描框上部的提示文字，按需求修改 -->
+    <string name="down_tips">请将识别框对准“使用说明”页（卡片）上的正版验证二维码，即可自行扫描</string><!-- 扫描框下的提示文字，此处可添加网站，点击可以跳转网页 -->
+<!--若扫描无效，请使用设备里的其他扫码软件（如微信里的“扫一扫”）扫描二维码获得正版验证码，并将其复制粘贴到上面空格中-->
+</resources>

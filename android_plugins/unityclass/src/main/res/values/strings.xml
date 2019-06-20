@@ -1,0 +1,11 @@
+<!--
+  ~ Project Name:ThirdPlugins
+  ~ File Name:strings.xml
+  ~ Package Name:
+  ~ Date:17-1-12 下午3:19
+  ~ Copyright (c) 2016, newvision All Rights Reserved.
+  -->
+
+<resources>
+    <string name="app_name">UnityClass</string>
+</resources>
